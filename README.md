@@ -45,7 +45,7 @@
 ✔ **(Future) INA219** - Power Monitoring for stability.  
 
 ### 🖥 **Software Tools**  
-✔ **STM32CubeIDE**, **Arduino IDE**, **VS Code**  
+✔ **STM32CubeIDE**, **Arduino IDE**, **VS Code**,**Ozone debugger and performance analyzer**,**SystemView** 
 
 ### 📝 **Programming Languages**  
 ✔ **Embedded C, Python**  
